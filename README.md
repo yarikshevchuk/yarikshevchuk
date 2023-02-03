@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yarikshevchuk
 - 👀 I’m interested in ancient roman literature
-- 🌱 I’m currently developing my skills in backend development & programming
+- 🌱 I’m currently improving my skills in backend development
 - 💞️ I’m looking for an army to invade Etruscans 
 - 📫 Your will find me when you're ready
 
