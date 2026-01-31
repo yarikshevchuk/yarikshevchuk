@@ -1,4 +1,4 @@
-Welcome there, my name is Yaroslav Shevchuk and...
+Welcome there, my name is Yaroslav Shevchuk and I am AI student at LPNU
 
 <!---
 yarikshevchuk/yarikshevchuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
